@@ -7,6 +7,6 @@ Kloniraj ovaj projekat u neki folder i kopiraj sve iz foldera projekta u folder 
 U terminalu ukucaj: git checkout dev. Tako se prebacuješ na dev granu.
 Napravi samo paket model i tu napravi modele koje ti dam.
 
-Posle podigni sve komandom: git push origin dev.
+Posle podigni sve komandama: git add . -> git commit -m "Initial commit" -> git push origin dev
 
 Dovoljno za početak :) 
